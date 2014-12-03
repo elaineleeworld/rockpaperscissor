@@ -1,0 +1,95 @@
+body {
+	background-color: black;
+	
+}
+
+h1 {
+	color: yellow;
+	font-size: 70px;
+	font-style: Arial;
+	text-align: center;
+}
+
+h2 {
+	color: yellow;
+}
+
+#rock {
+	display: block;
+	margin: 10px;
+}
+
+#paper {
+	display: block;
+	margin: 10px;
+}
+#scissor {
+	display: block;
+	margin: 10px;
+}
+
+#robot {
+	position: absolute;
+	top: 300px;
+	right: 40px;
+}
+
+#computerrock {
+	position: absolute;
+	top: 300px;
+	right: 400px;
+}
+
+#computerpaper {
+	position: absolute;
+	top: 300px;
+	right: 400px;
+}
+
+#computerscissor {
+	position: absolute;
+	top: 300px;
+	right: 400px;
+}
+#letsplay {
+	position: absolute;
+	top: 300px;
+	right: 400px;
+}
+#tie {
+	position: absolute;
+	top: 700px;
+	right: 600px;
+}
+#youlose {
+	position: absolute;
+	top: 650px;
+	right: 600px;
+}
+#youwin {
+	position: absolute;
+	top: 650px;
+	right: 600px;
+}
+button {
+	font-size: 20px;
+	background: red;
+}
+
+div {
+	border-color: red;
+	border-radius: 20px;
+	border-width: 20px;
+	border: solid;
+	background-color: orange;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	
+
+}
+/*#player h2 {
+	position: absolute;
+	
+	
+}*/
